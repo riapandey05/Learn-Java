@@ -1,3 +1,5 @@
+package Basics;
+
 public class methodchallenge {
     public static void main(String[] args) {
         int highscorepos = calculatehghscoreposition(1500);

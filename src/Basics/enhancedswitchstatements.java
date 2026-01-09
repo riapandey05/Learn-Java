@@ -1,3 +1,5 @@
+package Basics;
+
 public class enhancedswitchstatements {
 
     public static String getQuarter(String month) {

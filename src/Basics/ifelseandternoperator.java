@@ -1,3 +1,5 @@
+package Basics;
+
 public class ifelseandternoperator {
     static void main() {
         int age = 19;

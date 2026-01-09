@@ -1,3 +1,5 @@
+package Basics;
+
 public class switchstatements {
     public static void main(String[] args) {
         int switchvalue = 5;
