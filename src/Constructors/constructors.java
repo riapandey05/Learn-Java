@@ -9,6 +9,13 @@ public class constructors {
     private String customerPhone;
 //  no-args constructor
     public constructors() {
+//        constructor chaining : when we call another constructor inside a constructor
+//        whenever we use this() for constructor chaining we have to ensure that it is the very first line that
+//        is executed inside a constructor
+        this("56789",2.50,"Default name","Default address","Default phone");
+
+
+
         System.out.println("Empty constructor called");
     }
 

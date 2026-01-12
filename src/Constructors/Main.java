@@ -4,10 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        constructors bobsAccount = new constructors("12345", 500,
-                "Bob Brown", "myemail@bob.com",
-                "(087) 123-4567");
-
+//        constructors bobsAccount = new constructors("12345", 500,
+//                "Bob Brown", "myemail@bob.com",
+//                "(087) 123-4567");
+        constructors bobsAccount = new constructors();
         System.out.println(bobsAccount.getNumber());
         System.out.println(bobsAccount.getBalance());
 
@@ -17,16 +17,16 @@ public class Main {
 //        bobsAccount.setCustomerEmail("myemail@bob.com");
 //        bobsAccount.setCustomerPhone("(087) 123-4567");
 
-        bobsAccount.withdrawFunds(100.0);
-        bobsAccount.depositFunds(250);
-        bobsAccount.withdrawFunds(50);
-
-        bobsAccount.withdrawFunds(200);
-
-        bobsAccount.depositFunds(100);
-        bobsAccount.withdrawFunds(45.55);
-        bobsAccount.withdrawFunds(54.46);
-
-        bobsAccount.withdrawFunds(54.45);
+//        bobsAccount.withdrawFunds(100.0);
+//        bobsAccount.depositFunds(250);
+//        bobsAccount.withdrawFunds(50);
+//
+//        bobsAccount.withdrawFunds(200);
+//
+//        bobsAccount.depositFunds(100);
+//        bobsAccount.withdrawFunds(45.55);
+//        bobsAccount.withdrawFunds(54.46);
+//
+//        bobsAccount.withdrawFunds(54.45);
     }
 }
