@@ -1,4 +1,4 @@
-package POJO;
+package POJO3;
 // you see it is similar to a class but has parenthesis in which we can pass parameters
 public record LPAStudent(String id, String name, String dob, String claslist) {
 //   calling the constructor and printing the records is implicitly part of this record.

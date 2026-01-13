@@ -1,4 +1,4 @@
-package AbstractionandGeneralization;
+package LearnOOps4.AbstractionandGeneralization;
 
 public class Fish extends Animal {
     public Fish(String type, String size, double weight) {

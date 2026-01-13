@@ -1,4 +1,4 @@
-package AbstractionandGeneralization;
+package LearnOOps4.AbstractionandGeneralization;
 
 public class Horse extends Mammal{
 

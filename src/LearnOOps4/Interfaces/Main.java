@@ -1,4 +1,4 @@
-package dev.lpa;
+package LearnOOps4.Interfaces;
 
 public class Main {
 

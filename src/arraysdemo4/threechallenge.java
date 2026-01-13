@@ -1,9 +1,9 @@
-package arraysdemo;
+package arraysdemo4;
 
 import java.util.Collections;
 import java.util.Random;
 import java.util.Arrays;
-import java.util.Random;
+
 public class threechallenge {
     public static void main(String[] args) {
         Integer[] myarray = getRandomArray(10);

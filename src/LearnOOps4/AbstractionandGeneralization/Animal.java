@@ -1,4 +1,4 @@
-package AbstractionandGeneralization;
+package LearnOOps4.AbstractionandGeneralization;
 //abstract class extending abstract class :
 abstract class Mammal extends Animal{
 

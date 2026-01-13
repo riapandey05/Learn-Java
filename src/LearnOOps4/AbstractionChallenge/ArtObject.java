@@ -1,4 +1,4 @@
-package AbstractionChallenge;
+package LearnOOps4.AbstractionChallenge;
 
 public class ArtObject extends ProductForSale {
 

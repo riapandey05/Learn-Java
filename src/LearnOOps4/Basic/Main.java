@@ -1,4 +1,4 @@
-package LearnOOps;
+package LearnOOps4.Basic;
 
 public class Main {
    public static void main() {

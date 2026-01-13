@@ -1,4 +1,4 @@
-package LearnOOps;
+package LearnOOps4.Basic;
 
 public class Car {
     private String carname;

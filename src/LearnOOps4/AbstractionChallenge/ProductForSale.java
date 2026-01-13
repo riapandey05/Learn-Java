@@ -1,4 +1,4 @@
-package AbstractionChallenge;
+package LearnOOps4.AbstractionChallenge;
 
 public abstract class ProductForSale {
 

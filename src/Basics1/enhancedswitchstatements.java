@@ -1,4 +1,4 @@
-package Basics;
+package Basics1;
 
 public class enhancedswitchstatements {
 

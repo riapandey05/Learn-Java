@@ -1,4 +1,4 @@
-package POJO;
+package POJO3;
 
 public class Main {
     public static void main() {

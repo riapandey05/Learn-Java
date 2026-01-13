@@ -1,4 +1,4 @@
-package Basics;
+package Basics1;
 
 public class firstprogram {
 //    public here is access modifier and class keyword is used to define a class

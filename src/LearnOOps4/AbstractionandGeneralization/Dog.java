@@ -1,4 +1,4 @@
-package AbstractionandGeneralization;
+package LearnOOps4.AbstractionandGeneralization;
 
 public class Dog extends Animal {
 //    if concrete class extends abstract class then it must implement all abstract methods

@@ -1,4 +1,4 @@
-package Inheritance;
+package LearnOOps4.Inheritance;
 
 public class Main {
     public static void main() {

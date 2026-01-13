@@ -1,4 +1,4 @@
-package POJO;
+package POJO3;
 
 public class Student {
     private String id;

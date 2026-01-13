@@ -1,4 +1,4 @@
-package Inheritance;
+package LearnOOps4.Inheritance;
 
 public class Animal {
     private String type;
