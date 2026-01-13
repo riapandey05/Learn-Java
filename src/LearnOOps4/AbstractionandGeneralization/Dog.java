@@ -1,6 +1,7 @@
 package AbstractionandGeneralization;
 
 public class Dog extends Animal {
+//    if concrete class extends abstract class then it must implement all abstract methods
     public Dog(String type, String size, double weight) {
         super(type, size, weight);
     }
