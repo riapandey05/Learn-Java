@@ -1,4 +1,4 @@
-package GenericsBoundsAndComparators;
+package GenericsOnInterfaces;
 
 public interface Printable {
     void print();

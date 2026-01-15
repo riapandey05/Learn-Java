@@ -1,4 +1,4 @@
-package GenericsBoundsAndComparators;
+package GenericsBoundsAndComparators.Basics;
 
 class Pair<K, V> {
     private K key;

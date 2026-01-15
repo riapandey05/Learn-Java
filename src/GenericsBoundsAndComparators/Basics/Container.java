@@ -1,4 +1,4 @@
-package GenericsBoundsAndComparators;
+package GenericsBoundsAndComparators.Basics;
 
 public interface Container <T extends Number>{
 //    In this example, the type parameter T is restricted to subclasses of Number, so only numeric types like Integer,
