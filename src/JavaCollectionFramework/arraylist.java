@@ -1,7 +1,24 @@
 package JavaCollectionFramework;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
 
+class Mycomparator implements Comparator<Integer>{
+
+    @Override
+    public int compare(Integer o1, Integer o2) {
+        return 01-02;
+    }
+}
+class Mystringcomparator implements  Comparator<String>{
+
+    @Override
+    public int compare(String o1, String o2) {
+        return o2.length()-o1.length();
+    }
+}
 public class arraylist {
     public static void main() {
         ArrayList<Integer>list = new ArrayList<>();
@@ -40,5 +57,13 @@ public class arraylist {
         list.sort(null);
         System.out.println(list);
 
+
+//        a comparator is used to compare 2 objects of the same type
+        list.sort(new Mycomparator());
+        System.out.println(list);
+
+        List<String> words = Arrays.asList("Ramesh","SUresh","Amitesh");
+        words.sort(new Mystringcomparator());
+        System.out.println(words);
     }
 }
