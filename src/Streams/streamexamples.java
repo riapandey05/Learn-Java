@@ -25,4 +25,4 @@ public class streamexamples {
         System.out.println(newlist);
 
 
-    }}
+    } }
